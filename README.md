@@ -1,7 +1,7 @@
 # Crypto-currency-ML
 A project using unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes
 
-•	In this project I coded the elbow method algorithm to find the best value for k using the original data and then the scaled data
+•	In this project I used the elbow method algorithm to find the best value for k using the original data and then the scaled data
 
 •	Predicting the clusters to group the cryptocurrencies of both unscaled and scaled data demonstrated the importance of preprocessing and scaling data      before fitting it to the model
 
