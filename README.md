@@ -10,6 +10,7 @@ A project using unsupervised learning to predict if cryptocurrencies are affecte
 •	In this project 90% of the total variance is condensed into the 3 PCA variables
 
 
+<img width="440" alt="Screenshot 2023-04-08 at 13 07 25" src="https://user-images.githubusercontent.com/115706722/230727051-63b5762c-8c22-48f4-b419-adf8ba473cf8.png">
 
 **An insight into the septs in this process:**
 
